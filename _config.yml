@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yuanyang Qiu（邱远洋）"
 title_separator          : "-"
 name                     : &name "Yuanyang Qiu （邱远洋）"
-description              : &description "My research lies at the intersection of Law, Communication and Computer Science, specifically focusing on issues like Tech Governance or AI Safety"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Tech Governance, AI Safety and Legal NLP"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Yuanyang1989.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuanyang Qiu （邱远洋）"
   pronouns         : # example: "she/her"  
-  bio              : "My research lies at the intersection of Law, Communication and Computer Science, specifically focusing on issues like Tech Governance or AI Safety"
+  bio              : "Tech Governance, AI Safety and Legal NLP"
   location         : "Beijing City"
   employer         : "China University of Political Science and Law / Fordham University"
   uri              : # yuanyang-qiu-79229839a
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0002-1802-7511"
   semantic         : # URL
   ssrn             : # https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10937208
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Yuanyang1989"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
