@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuanyang Qiu （邱远洋）"
   pronouns         : # example: "she/her"  
-  bio              : "Tech Governance, AI Safety and Legal NLP"
+  bio              : "Legal Tech & AI Governance Researcher | LL.M. Candidate at CUPL"
   location         : "Beijing City"
   employer         : "China University of Political Science and Law / Fordham University"
   uri              : # yuanyang-qiu-79229839a
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : https://openreview.net/profile?id=%7EYuanyang_Qiu2
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-1802-7511"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yuanyang-qiu-79229839a/?locale=zh-cn"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
