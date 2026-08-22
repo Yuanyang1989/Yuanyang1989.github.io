@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2025-01-01-pku-phd-conference
 venue: "Peking University Law School PhD Conference"
-date: 2025-01-01
+date: 2025-06-21
 location: "Beijing, China"
 ---
 
